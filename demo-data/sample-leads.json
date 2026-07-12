@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sarah Johnson",
+    "service": "Roof Repair",
+    "urgency": "High",
+    "status": "New",
+    "phone": "555-0100"
+  },
+  {
+    "name": "Mike Thompson",
+    "service": "Landscaping Estimate",
+    "urgency": "Medium",
+    "status": "Contacted",
+    "phone": "555-0200"
+  }
+]
